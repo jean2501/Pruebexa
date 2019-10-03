@@ -14,6 +14,7 @@ public class Eq {
 		name = sc.nextLine();				
 				
 		System.out.println("Hola "+name + " su asistencia fue registrada");
+	
 	}
 
 }
